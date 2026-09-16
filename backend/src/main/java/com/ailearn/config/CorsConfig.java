@@ -28,6 +28,7 @@ public class CorsConfig {
             "http://127.0.0.1:*",
             "http://localhost:3000",
             "http://localhost:5173"
+            "https://harikishan-098.github.io"
         ));
         
         // Allow all headers
